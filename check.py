@@ -27,4 +27,4 @@ def check_pairs(folder_path):
         print("✓ All paired correctly!")
 
 # Usage
-check_pairs("/home/daino/Desktop/Probe_detection/Probe_detection/Photos")
+check_pairs("/home/daino/Desktop/Probe_detection/Probe_detection/images")

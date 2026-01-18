@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Photos</folder>
+	<folder>images</folder>
 	<filename>capture_20260118_144953.png</filename>
-	<path>/home/daino/Desktop/Probe_detection/Probe_detection/Photos/capture_20260118_144953.png</path>
+	<path>/home/daino/Desktop/Probe_detection/Probe_detection/images/capture_20260118_144953.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,18 +21,6 @@
 			<ymin>335</ymin>
 			<xmax>374</xmax>
 			<ymax>405</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Probe</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>372</xmin>
-			<ymin>225</ymin>
-			<xmax>422</xmax>
-			<ymax>248</ymax>
 		</bndbox>
 	</object>
 </annotation>

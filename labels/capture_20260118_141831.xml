@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Photos</folder>
+	<folder>images</folder>
 	<filename>capture_20260118_141831.png</filename>
-	<path>/home/daino/Desktop/Probe_detection/Probe_detection/Photos/capture_20260118_141831.png</path>
+	<path>/home/daino/Desktop/Probe_detection/Probe_detection/images/capture_20260118_141831.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>91</xmin>
 			<ymin>102</ymin>
-			<xmax>307</xmax>
-			<ymax>172</ymax>
+			<xmax>317</xmax>
+			<ymax>161</ymax>
 		</bndbox>
 	</object>
 </annotation>
