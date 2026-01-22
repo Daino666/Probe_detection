@@ -1,11 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>capture_20260122_192023.png</filename>
-<<<<<<< HEAD
-	<path>/home/camila/camera/Probe_detection/images/capture_20260122_192023.png</path>
-=======
 	<path>/home/daino/Desktop/Probe_detection/Probe_detection/images/capture_20260122_192023.png</path>
->>>>>>> 6fd4cbe438d7a14d019c6b5438702eb3a0db3231
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,17 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-<<<<<<< HEAD
-			<xmin>249</xmin>
-			<ymin>320</ymin>
-			<xmax>289</xmax>
-			<ymax>408</ymax>
-=======
 			<xmin>253</xmin>
-			<ymin>321</ymin>
-			<xmax>283</xmax>
-			<ymax>406</ymax>
->>>>>>> 6fd4cbe438d7a14d019c6b5438702eb3a0db3231
+			<ymin>320</ymin>
+			<xmax>282</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 </annotation>
