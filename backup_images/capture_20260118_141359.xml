@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Photos</folder>
+	<folder>backup_images</folder>
 	<filename>capture_20260118_141359.png</filename>
-	<path>/home/daino/Desktop/Probe_detection/Probe_detection/Photos/capture_20260118_141359.png</path>
+	<path>/home/camila/camera/Probe_detection/backup_images/capture_20260118_141359.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
+			<xmin>190</xmin>
 			<ymin>315</ymin>
-			<xmax>234</xmax>
+			<xmax>236</xmax>
 			<ymax>364</ymax>
 		</bndbox>
 	</object>
